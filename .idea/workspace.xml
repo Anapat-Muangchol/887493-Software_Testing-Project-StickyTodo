@@ -1,0 +1,380 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f35e7ef5-49b2-44a2-bf70-ed90b227cdb9" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/webServers.xml" />
+    </list>
+    <list id="905fc431-7340-422f-ad3f-30563f6752b3" name="New changelist" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/StickyTodo.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/copyright/profiles_settings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/deployment.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+    </list>
+    <ignored path="StickyTodo.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <ignored path=".idea/dataSources.local.xml" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="StickyTodo" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="bank" />
+      </map>
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="&lt;b7fc03d3-9262-49e6-8c9d-fb2b921f7d04&gt;/public_html/887330 Application Development for Mobile Devices/rest_service/contact_list/load.php" />
+        <option value="&lt;b7fc03d3-9262-49e6-8c9d-fb2b921f7d04&gt;/public_html/887330 Application Development for Mobile Devices/rest_service/contact_list/delete.php" />
+        <option value="&lt;b7fc03d3-9262-49e6-8c9d-fb2b921f7d04&gt;/public_html/887330 Application Development for Mobile Devices/rest_service/contact_list/store.php" />
+        <option value="&lt;b7fc03d3-9262-49e6-8c9d-fb2b921f7d04&gt;/public_html/887330 Application Development for Mobile Devices/rest_service/precious-memories/db.php" />
+        <option value="&lt;b7fc03d3-9262-49e6-8c9d-fb2b921f7d04&gt;/public_html/887330 Application Development for Mobile Devices/rest_service/precious-memories/member.php" />
+        <option value="&lt;b7fc03d3-9262-49e6-8c9d-fb2b921f7d04&gt;/public_html/887240 System Analysis and Designs/Project/Mockup/pages/post/detail/ctrl.php" />
+        <option value="&lt;b7fc03d3-9262-49e6-8c9d-fb2b921f7d04&gt;/public_html/887240 System Analysis and Designs/Project/Mockup/pages/management_product/ctrl.php" />
+        <option value="&lt;b7fc03d3-9262-49e6-8c9d-fb2b921f7d04&gt;/public_html/887240 System Analysis and Designs/Project/Mockup/pages/profile/index.php" />
+        <option value="&lt;b7fc03d3-9262-49e6-8c9d-fb2b921f7d04&gt;/public_html/887240 System Analysis and Designs/Project/Mockup/pages/post/new/ctrl.php" />
+        <option value="&lt;b7fc03d3-9262-49e6-8c9d-fb2b921f7d04&gt;/public_html/887240 System Analysis and Designs/Project/Mockup/pages/post/new/test.php" />
+        <option value="&lt;b7fc03d3-9262-49e6-8c9d-fb2b921f7d04&gt;/public_html/887240 System Analysis and Designs/Project/Mockup/pages/post/new/upload.php" />
+        <option value="&lt;b7fc03d3-9262-49e6-8c9d-fb2b921f7d04&gt;/public_html/887240 System Analysis and Designs/Project/Mockup/classes/sell_management.php" />
+        <option value="&lt;b7fc03d3-9262-49e6-8c9d-fb2b921f7d04&gt;/public_html/887240 System Analysis and Designs/Project/Mockup/pages/post/new/form_post.php" />
+        <option value="&lt;b7fc03d3-9262-49e6-8c9d-fb2b921f7d04&gt;/public_html/887240 System Analysis and Designs/Project/Mockup/pages/post/sellSec.php" />
+        <option value="&lt;b7fc03d3-9262-49e6-8c9d-fb2b921f7d04&gt;/public_html/887240 System Analysis and Designs/Project/Mockup/classes/ad.php" />
+        <option value="&lt;b7fc03d3-9262-49e6-8c9d-fb2b921f7d04&gt;/public_html/887240 System Analysis and Designs/Project/Mockup/pages/post/detail/ProductDetail.php" />
+        <option value="&lt;b7fc03d3-9262-49e6-8c9d-fb2b921f7d04&gt;/public_html/887330 Application Development for Mobile Devices/rest_service/precious-memories/db2.php" />
+        <option value="&lt;b7fc03d3-9262-49e6-8c9d-fb2b921f7d04&gt;/public_html/887330 Application Development for Mobile Devices/rest_service/precious-memories/addMemo.php" />
+        <option value="&lt;b7fc03d3-9262-49e6-8c9d-fb2b921f7d04&gt;/public_html/887330 Application Development for Mobile Devices/rest_service/precious-memories/memory.php" />
+        <option value="&lt;b7fc03d3-9262-49e6-8c9d-fb2b921f7d04&gt;/public_html/887240 System Analysis and Designs/Project/Mockup/pages/post/edit/ctrl.php" />
+        <option value="&lt;b7fc03d3-9262-49e6-8c9d-fb2b921f7d04&gt;/public_html/887240 System Analysis and Designs/Project/Mockup/classes/Category.php" />
+        <option value="&lt;b7fc03d3-9262-49e6-8c9d-fb2b921f7d04&gt;/public_html/887240 System Analysis and Designs/Project/Mockup/pages/post/edit/upload.php" />
+        <option value="&lt;b7fc03d3-9262-49e6-8c9d-fb2b921f7d04&gt;/public_html/887240 System Analysis and Designs/Project/Mockup/pages/post/edit/editSec.php" />
+        <option value="&lt;b7fc03d3-9262-49e6-8c9d-fb2b921f7d04&gt;/public_html/887240 System Analysis and Designs/Project/Mockup/pages/post/edit/form_edit.php" />
+        <option value="&lt;b7fc03d3-9262-49e6-8c9d-fb2b921f7d04&gt;/public_html/887240 System Analysis and Designs/Project/Mockup/bin/ctrl.php" />
+        <option value="&lt;b7fc03d3-9262-49e6-8c9d-fb2b921f7d04&gt;/public_html/887240 System Analysis and Designs/Project/Mockup/start.php" />
+        <option value="&lt;b7fc03d3-9262-49e6-8c9d-fb2b921f7d04&gt;/public_html/887240 System Analysis and Designs/Project/Mockup/bin/recommendProduct.php" />
+        <option value="&lt;b7fc03d3-9262-49e6-8c9d-fb2b921f7d04&gt;/public_html/887240 System Analysis and Designs/Project/Mockup/bin/categoryMenu.php" />
+        <option value="&lt;b7fc03d3-9262-49e6-8c9d-fb2b921f7d04&gt;/public_html/887240 System Analysis and Designs/Project/Mockup/classes/PostProduct.php" />
+        <option value="&lt;b7fc03d3-9262-49e6-8c9d-fb2b921f7d04&gt;/public_html/887240 System Analysis and Designs/Project/Mockup/pages/category/ctrl.php" />
+        <option value="&lt;b7fc03d3-9262-49e6-8c9d-fb2b921f7d04&gt;/public_html/887240 System Analysis and Designs/Project/Mockup/bin/popularProduct.php" />
+        <option value="&lt;b7fc03d3-9262-49e6-8c9d-fb2b921f7d04&gt;/public_html/887240 System Analysis and Designs/Project/Mockup/pages/management_product/Management Products.php" />
+        <option value="&lt;29c22262-ae18-44f4-9c32-b4b24f465eba&gt;/web/dev/arisethem/classes/api_key.php" />
+        <option value="&lt;29c22262-ae18-44f4-9c32-b4b24f465eba&gt;/web/dev/arisethem/classes/db.php" />
+        <option value="&lt;29c22262-ae18-44f4-9c32-b4b24f465eba&gt;/web/dev/arisethem/api/api-event.php" />
+        <option value="&lt;29c22262-ae18-44f4-9c32-b4b24f465eba&gt;/web/dev/arisethem/classes/Member.php" />
+        <option value="&lt;29c22262-ae18-44f4-9c32-b4b24f465eba&gt;/web/dev/arisethem/api/api-member.php" />
+        <option value="&lt;29c22262-ae18-44f4-9c32-b4b24f465eba&gt;/web/dev/arisethem/yourplugs/yourplugs.scss" />
+        <option value="&lt;29c22262-ae18-44f4-9c32-b4b24f465eba&gt;/web/dev/arisethem/yourplugs/plug.mockdata.js" />
+        <option value="&lt;29c22262-ae18-44f4-9c32-b4b24f465eba&gt;/web/dev/arisethem/classes/Search.php" />
+        <option value="&lt;29c22262-ae18-44f4-9c32-b4b24f465eba&gt;/web/dev/arisethem/yourplugs/plugdetail/graph/graph.css" />
+        <option value="&lt;29c22262-ae18-44f4-9c32-b4b24f465eba&gt;/web/dev/arisethem/classes/Graph.php" />
+        <option value="&lt;29c22262-ae18-44f4-9c32-b4b24f465eba&gt;/web/dev/arisethem/api/api-plug.php" />
+        <option value="&lt;29c22262-ae18-44f4-9c32-b4b24f465eba&gt;/web/dev/arisethem/classes/Plug.php" />
+        <option value="&lt;29c22262-ae18-44f4-9c32-b4b24f465eba&gt;/web/dev/arisethem/yourplugs/plugdetail/graph/graph.js" />
+        <option value="&lt;29c22262-ae18-44f4-9c32-b4b24f465eba&gt;/web/dev/arisethem/yourplugs/plugdetail/graph/index.php" />
+        <option value="&lt;29c22262-ae18-44f4-9c32-b4b24f465eba&gt;/web/dev/arisethem/api/api-outlet.php" />
+        <option value="&lt;29c22262-ae18-44f4-9c32-b4b24f465eba&gt;/web/dev/arisethem/classes/Outlet.php" />
+        <option value="&lt;29c22262-ae18-44f4-9c32-b4b24f465eba&gt;/web/dev/arisethem/yourplugs/plugdetail/plugdetail.js" />
+        <option value="&lt;29c22262-ae18-44f4-9c32-b4b24f465eba&gt;/web/dev/arisethem/yourplugs/yourplugs.js" />
+        <option value="&lt;29c22262-ae18-44f4-9c32-b4b24f465eba&gt;/web/dev/arisethem/yourplugs/plugdetail/index.php" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" />
+  <component name="JsBuildToolPackageJson" detection-done="true" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+  </component>
+  <component name="PhpServers">
+    <servers />
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1382" />
+    <option name="height" value="754" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="2" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="true" />
+    <property name="js-jscs-nodeInterpreter" value="C:\Program Files\nodejs\node.exe" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+    <property name="settings.editor.splitter.proportion" value="0.2" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.size" value="false" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.date" value="false" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.permissions" value="false" />
+    <property name="WebServerToolWindowPanel.toolwindow.highlight.symlinks" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.highlight.mappings" value="true" />
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
+      <TestRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpBehatConfigurationType" factoryName="Behat">
+      <BehatRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpLocalRunConfigurationType" factoryName="PHP Console">
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
+      <command value="run-script" />
+      <scripts />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f35e7ef5-49b2-44a2-bf70-ed90b227cdb9" name="Default" comment="" />
+      <changelist id="905fc431-7340-422f-ad3f-30563f6752b3" name="New changelist" comment="" />
+      <created>1476959460386</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1476959460386</updated>
+      <workItem from="1476959461768" duration="529000" />
+      <workItem from="1476960030788" duration="489000" />
+      <workItem from="1476960522601" duration="733000" />
+      <workItem from="1476961282587" duration="4036000" />
+      <workItem from="1477388017973" duration="2467000" />
+      <workItem from="1477643708820" duration="1086000" />
+      <workItem from="1477646496470" duration="614000" />
+      <workItem from="1477765355983" duration="3784000" />
+      <workItem from="1477906399041" duration="4074000" />
+      <workItem from="1477991528838" duration="3396000" />
+      <workItem from="1478600992255" duration="7903000" />
+      <workItem from="1478762905662" duration="5760000" />
+      <workItem from="1478778974502" duration="3837000" />
+      <workItem from="1478839266405" duration="15777000" />
+      <workItem from="1478888193283" duration="1572000" />
+      <workItem from="1479360589419" duration="13399000" />
+      <workItem from="1479453202746" duration="7483000" />
+      <workItem from="1479472758300" duration="20815000" />
+      <workItem from="1479549416884" duration="28193000" />
+      <workItem from="1479656343619" duration="9163000" />
+      <workItem from="1479675581011" duration="2082000" />
+      <workItem from="1479715641526" duration="2695000" />
+      <workItem from="1479720100292" duration="695000" />
+      <workItem from="1479728492673" duration="1811000" />
+      <workItem from="1479792779571" duration="25596000" />
+      <workItem from="1479883363831" duration="1338000" />
+      <workItem from="1484986254448" duration="8602000" />
+      <workItem from="1486925024159" duration="25000" />
+      <workItem from="1487299162206" duration="2672000" />
+      <workItem from="1487425613518" duration="22148000" />
+      <workItem from="1487498321971" duration="12456000" />
+      <workItem from="1487572835712" duration="7026000" />
+      <workItem from="1487664805071" duration="17232000" />
+      <workItem from="1487782624789" duration="6327000" />
+      <workItem from="1487837199879" duration="4832000" />
+      <workItem from="1487864375218" duration="1817000" />
+      <workItem from="1488881985713" duration="7595000" />
+      <workItem from="1489041481252" duration="8603000" />
+      <workItem from="1489054476484" duration="2526000" />
+      <workItem from="1489062825708" duration="58000" />
+    </task>
+    <task id="LOCAL-00001" summary="Test">
+      <created>1476959585673</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1476959585673</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Test">
+      <created>1476959657554</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1476959657554</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Test">
+      <created>1476960644300</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1476960644300</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="271246000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="754" extended-state="6" />
+    <editor active="false" />
+    <layout>
+      <window_info id="Remote Host" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.1317716" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24963397" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32919255" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32919255" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.07919255" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+    </layout>
+    <layout-to-restore>
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32919255" sideWeight="0.5" order="8" side_tool="true" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32919255" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.07919255" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Remote Host" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.13396779" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24963397" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+    </layout-to-restore>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Test" />
+    <option name="LAST_COMMIT_MESSAGE" value="Test" />
+    <option name="PRESELECT_EXISTING_CHANGELIST" value="false" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="php">
+          <url>REMOTE_DEPLOYMENT_FS://&lt;b7fc03d3-9262-49e6-8c9d-fb2b921f7d04&gt;/public_html/887240 System Analysis and Designs/Project/Mockup/pages/post/detail/ctrl.php</url>
+          <line>5</line>
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="php">
+          <url>REMOTE_DEPLOYMENT_FS://&lt;b7fc03d3-9262-49e6-8c9d-fb2b921f7d04&gt;/public_html/887240 System Analysis and Designs/Project/Mockup/classes/PostProduct.php</url>
+          <line>121</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="php">
+          <url>REMOTE_DEPLOYMENT_FS://&lt;29c22262-ae18-44f4-9c32-b4b24f465eba&gt;/web/dev/arisethem/classes/api_key.php</url>
+          <line>66</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+      <option name="time" value="3" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/system/stickyTodo.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/system/stickyTodo.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/system/stickyTodo.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="491">
+          <caret line="277" column="10" selection-start-line="277" selection-start-column="10" selection-end-line="277" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$APPLICATION_HOME_DIR$/plugins/php/lib/php.jar!/com/jetbrains/php/lang/psi/stubs/data/json.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="191">
+          <caret line="88" column="9" selection-start-line="88" selection-start-column="9" selection-end-line="88" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

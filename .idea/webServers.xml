@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="29c22262-ae18-44f4-9c32-b4b24f465eba" name="Smartplug" url="http://smartplug.cs.buu.ac.th">
+        <fileTransfer host="smartplug.cs.buu.ac.th" port="22" rootFolder="/var/www/smartplug" accessType="SFTP" password="dfe5dfc4dfc9dfcfdf8cdfccdfc5dfd8dfcbdfc6dfc6" username="smp">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
